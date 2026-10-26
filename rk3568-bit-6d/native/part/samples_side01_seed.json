@@ -1,0 +1,7 @@
+{
+  "image": "side01.pgm",
+  "points_px": [[2310,705], [2310,726], [2128,727], [2128,706]],
+  "provenance": "assistant_manual_visual_estimate_from_saved_image",
+  "physically_confirmed": false,
+  "note": "Exploratory seed only. Shoulder/corner locations and actual face identity are not physically verified; not automatic keypoint detections."
+}

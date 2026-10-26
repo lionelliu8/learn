@@ -1,0 +1,15 @@
+Target: RK3568 aarch64 Buildroot glibc 2.35
+Compiler: Ubuntu Jammy aarch64-linux-gnu GCC/G++ 11.4.0
+Compiler package content hashes checked against APT's cached package metadata before installation.
+
+OpenCV 4.5.5 official tag tarball SHA256:
+a1cfdcf6619387ca9e232687504da996aaa9f7b5689986b8331ec02cb61d28ad
+OpenCV contrib 4.5.5 official tag tarball SHA256:
+a97c2eaecf7a23c6dbd119a609c6d7fae903e5f9ff5f1fe678933e01c67a6c11
+Target /usr/lib/librga.so.2.1.0 SHA256:
+13225098dee94f857f9cbf61d9a7286f4e359f09e69a0493467b9566b509a5d2
+
+The RGA shared library is not installed over the system library. Header source:
+/home/llx/npu3/yolov5_deepsort_rknn/3rdparty/rga/include
+Dynamic ABI compatibility is verified on the board; do not reuse this build on
+another driver/SDK without rerunning both CPU and RGA self-tests.

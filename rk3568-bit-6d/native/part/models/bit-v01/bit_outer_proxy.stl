@@ -1,0 +1,142 @@
+solid bit_outer_proxy_mm
+facet normal -1.0 0.0 0.0
+ outer loop
+  vertex -12.5 2.5 0
+  vertex -12.5 -1.25 2.0
+  vertex -12.5 1.25 2.0
+ endloop
+endfacet
+facet normal 1.0 0.0 0.0
+ outer loop
+  vertex 12.5 2.5 0
+  vertex 12.5 1.25 2.0
+  vertex 12.5 -1.25 2.0
+ endloop
+endfacet
+facet normal -1.0 0.0 0.0
+ outer loop
+  vertex -12.5 2.5 0
+  vertex -12.5 -2.5 0
+  vertex -12.5 -1.25 2.0
+ endloop
+endfacet
+facet normal 1.0 0.0 0.0
+ outer loop
+  vertex 12.5 2.5 0
+  vertex 12.5 -1.25 2.0
+  vertex 12.5 -2.5 0
+ endloop
+endfacet
+facet normal -1.0 -0.0 0.0
+ outer loop
+  vertex -12.5 2.5 0
+  vertex -12.5 -1.25 -2.0
+  vertex -12.5 -2.5 0
+ endloop
+endfacet
+facet normal 1.0 0.0 0.0
+ outer loop
+  vertex 12.5 2.5 0
+  vertex 12.5 -2.5 0
+  vertex 12.5 -1.25 -2.0
+ endloop
+endfacet
+facet normal -1.0 0.0 0.0
+ outer loop
+  vertex -12.5 2.5 0
+  vertex -12.5 1.25 -2.0
+  vertex -12.5 -1.25 -2.0
+ endloop
+endfacet
+facet normal 1.0 0.0 0.0
+ outer loop
+  vertex 12.5 2.5 0
+  vertex 12.5 -1.25 -2.0
+  vertex 12.5 1.25 -2.0
+ endloop
+endfacet
+facet normal 0.0 0.847998304005088 0.52999894000318
+ outer loop
+  vertex -12.5 2.5 0
+  vertex -12.5 1.25 2.0
+  vertex 12.5 1.25 2.0
+ endloop
+endfacet
+facet normal -0.0 0.847998304005088 0.52999894000318
+ outer loop
+  vertex -12.5 2.5 0
+  vertex 12.5 1.25 2.0
+  vertex 12.5 2.5 0
+ endloop
+endfacet
+facet normal 0.0 0.0 1.0
+ outer loop
+  vertex -12.5 1.25 2.0
+  vertex -12.5 -1.25 2.0
+  vertex 12.5 -1.25 2.0
+ endloop
+endfacet
+facet normal -0.0 0.0 1.0
+ outer loop
+  vertex -12.5 1.25 2.0
+  vertex 12.5 -1.25 2.0
+  vertex 12.5 1.25 2.0
+ endloop
+endfacet
+facet normal 0.0 -0.847998304005088 0.52999894000318
+ outer loop
+  vertex -12.5 -1.25 2.0
+  vertex -12.5 -2.5 0
+  vertex 12.5 -2.5 0
+ endloop
+endfacet
+facet normal 0.0 -0.847998304005088 0.52999894000318
+ outer loop
+  vertex -12.5 -1.25 2.0
+  vertex 12.5 -2.5 0
+  vertex 12.5 -1.25 2.0
+ endloop
+endfacet
+facet normal 0.0 -0.847998304005088 -0.52999894000318
+ outer loop
+  vertex -12.5 -2.5 0
+  vertex -12.5 -1.25 -2.0
+  vertex 12.5 -1.25 -2.0
+ endloop
+endfacet
+facet normal 0.0 -0.847998304005088 -0.52999894000318
+ outer loop
+  vertex -12.5 -2.5 0
+  vertex 12.5 -1.25 -2.0
+  vertex 12.5 -2.5 0
+ endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+ outer loop
+  vertex -12.5 -1.25 -2.0
+  vertex -12.5 1.25 -2.0
+  vertex 12.5 1.25 -2.0
+ endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+ outer loop
+  vertex -12.5 -1.25 -2.0
+  vertex 12.5 1.25 -2.0
+  vertex 12.5 -1.25 -2.0
+ endloop
+endfacet
+facet normal 0.0 0.847998304005088 -0.52999894000318
+ outer loop
+  vertex -12.5 1.25 -2.0
+  vertex -12.5 2.5 0
+  vertex 12.5 2.5 0
+ endloop
+endfacet
+facet normal 0.0 0.847998304005088 -0.52999894000318
+ outer loop
+  vertex -12.5 1.25 -2.0
+  vertex 12.5 2.5 0
+  vertex 12.5 1.25 -2.0
+ endloop
+endfacet
+endsolid bit_outer_proxy_mm

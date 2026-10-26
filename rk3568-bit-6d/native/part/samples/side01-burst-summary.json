@@ -1,0 +1,52 @@
+{
+  "roi_xywh": [
+    2030,
+    580,
+    295,
+    240
+  ],
+  "frames": 5,
+  "single_candidate_frames": 5,
+  "detections": [
+    {
+      "image": "/userdata/6D-native/part/live-snapshots/capture_12770_2650838999166.pgm",
+      "candidates": 1
+    },
+    {
+      "image": "/userdata/6D-native/part/live-snapshots/capture_12770_2651295866549.pgm",
+      "candidates": 1
+    },
+    {
+      "image": "/userdata/6D-native/part/live-snapshots/capture_12770_2651764902713.pgm",
+      "candidates": 1
+    },
+    {
+      "image": "/userdata/6D-native/part/live-snapshots/capture_12770_2652278491486.pgm",
+      "candidates": 1
+    },
+    {
+      "image": "/userdata/6D-native/part/live-snapshots/capture_12770_2652759320140.pgm",
+      "candidates": 1
+    }
+  ],
+  "metric_pose_valid": false,
+  "head_tail_validated": false,
+  "center_mean_px": [
+    2175.8894958496094,
+    708.6737213134766
+  ],
+  "center_std_px": [
+    0.18218569215455013,
+    0.1380870697644119
+  ],
+  "mean_length_px": 273.91148071289064,
+  "mean_width_px": 41.99662551879883,
+  "axis_angle_std_deg_mod180": 0.14529526499198073,
+  "head_shape_hints": [
+    "ambiguous",
+    "ambiguous",
+    "ambiguous",
+    "ambiguous",
+    "ambiguous"
+  ]
+}

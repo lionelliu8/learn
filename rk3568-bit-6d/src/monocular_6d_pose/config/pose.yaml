@@ -1,0 +1,5 @@
+monocular_6d_pose_node:
+  ros__parameters:
+    marker_length: 0.08
+    marker_id: 0
+    child_frame: detected_object

@@ -1,0 +1,17 @@
+{
+  "object": "phillips_driver_bit",
+  "units": "mm",
+  "total_length_mm": 25.0,
+  "includes_tip": true,
+  "endface_corner_to_corner_width_mm": 5.0,
+  "endface_parallel_flat_height_mm": 4.0,
+  "head_length_mm": null,
+  "measurement_uncertainty_mm": null,
+  "coordinate_frame": "Origin at total-length midpoint; +X toward tip, Y width, Z height.",
+  "source": "User measurements, 2026-10-25. No CAD or head geometry measurements available.",
+  "geometry": "affine_hexagonal_outer_proxy",
+  "tip_geometry_modeled": false,
+  "pnp_landmarks_available": false,
+  "usage": "Visualization/envelope only; NOT a validated 6D registration model.",
+  "regular_hexagon_inferred_corner_width_mm": 4.618802153517007
+}

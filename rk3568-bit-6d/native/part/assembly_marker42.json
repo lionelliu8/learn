@@ -1,0 +1,16 @@
+{
+  "name": "bit_on_rigid_carrier_v1",
+  "dictionary": "DICT_4X4_50",
+  "marker_id": 42,
+  "marker_length_m": 0.020,
+  "mount_independently_verified": 0,
+  "T_marker_object": {
+    "rotation_matrix": [1,0,0,0,1,0,0,0,1],
+    "translation_m": [0.0,-0.024,0.002]
+  },
+  "definition": "T_marker_object maps object coordinates into marker coordinates. T_camera_object=T_camera_marker*T_marker_object.",
+  "marker_axes": "X right on upright printed marker; Y up; Z out of printed face.",
+  "object_axes": "Origin total-length midpoint; X toward tip/right on carrier; Y up on card; Z out of card.",
+  "mount_assumptions": "Bit fixed flat in25x5 guide, face height4mm, center2mm above paper. Glue thickness, print error and placement error are unmeasured.",
+  "physical_status": "Template prepared; user print, rigid fixing and physical motion test still required."
+}

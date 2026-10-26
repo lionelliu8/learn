@@ -1,0 +1,10 @@
+monocular_6d_pose_node:
+  ros__parameters:
+    marker_length: 0.08
+    marker_id: 0
+    child_frame: detected_object
+    use_rga: true
+    resize_width: 320
+    resize_height: 240
+    publish_debug: false
+    opencv_threads: 1

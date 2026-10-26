@@ -1,0 +1,89 @@
+{
+  "frames": 240,
+  "valid_object_frames": 237,
+  "valid_fraction": 0.9875,
+  "absolute_accuracy_validated": false,
+  "mount_independently_verified": false,
+  "processing_ms": {
+    "p50": 68.88980000000001,
+    "p95": 75.9458
+  },
+  "resize_ms": {
+    "p50": 17.47745,
+    "p95": 22.1322
+  },
+  "detect_ms": {
+    "p50": 49.2657,
+    "p95": 56.1205
+  },
+  "pose_ms": {
+    "p50": 1.1245500000000002,
+    "p95": 1.51204
+  },
+  "marker_xyz_mean_mm": [
+    -17.983576793248947,
+    -19.376745147679326,
+    219.73386497890294
+  ],
+  "marker_xyz_std_mm": [
+    0.1042817338270222,
+    0.08924508583475789,
+    0.7501590877105935
+  ],
+  "marker_xyz_range_mm": [
+    0.5518000000000001,
+    0.5097999999999985,
+    4.244000000000028
+  ],
+  "object_xyz_mean_mm": [
+    -21.575473839662447,
+    4.314358818565401,
+    222.13096202531645
+  ],
+  "object_xyz_std_mm": [
+    0.19958056564915103,
+    0.1121656340276827,
+    0.855271059405037
+  ],
+  "object_xyz_range_mm": [
+    0.9402000000000008,
+    0.5966499999999995,
+    5.174999999999983
+  ],
+  "rotation_relative_to_middle_valid_frame_deg": {
+    "p50": 1.156465248129427,
+    "p95": 2.389928907937464,
+    "max": 3.8617278017178363
+  },
+  "rotation_max_between_valid_samples_deg": 5.451957661787755,
+  "rotation_jumps_over_10deg": 0,
+  "mean_marker_reprojection_px": 0.9219314345991562,
+  "marker_normal_tilt_from_optical_axis_deg": {
+    "p50": 30.06966547415874,
+    "p95": 31.912859485644024
+  },
+  "marker_obliquity_to_local_viewing_ray_deg": {
+    "p50": 23.642767031131203,
+    "p95": 25.644214285585807
+  },
+  "reprojection_coordinate_spaces": [
+    "original_4k"
+  ],
+  "rigid_transform_numeric_max_error_mm": 0.0010168815367596392,
+  "reference_pose": {
+    "frame": 119,
+    "source": "rigid_marker_mount",
+    "xyz_m": [
+      -0.0214111,
+      0.00430749,
+      0.222013
+    ],
+    "rvec_rad": [
+      -2.84255,
+      -0.200804,
+      -0.704621
+    ],
+    "mount_independently_verified": false
+  },
+  "note": "Std/range describe this stage only. They represent repeatability only when the camera and assembly were static. Numeric transform consistency is not a physical accuracy check."
+}

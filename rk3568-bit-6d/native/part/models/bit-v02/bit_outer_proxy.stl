@@ -1,0 +1,226 @@
+solid bit_outer_proxy_mm
+facet normal -1.0 0.0 0.0
+ outer loop
+  vertex -12.5 2.5 0
+  vertex -12.5 -1.25 2.0
+  vertex -12.5 1.25 2.0
+ endloop
+endfacet
+facet normal 1.0 0.0 0.0
+ outer loop
+  vertex 12.5 0.625 0.0
+  vertex 12.5 0.3125 0.5
+  vertex 12.5 -0.3125 0.5
+ endloop
+endfacet
+facet normal -1.0 0.0 0.0
+ outer loop
+  vertex -12.5 2.5 0
+  vertex -12.5 -2.5 0
+  vertex -12.5 -1.25 2.0
+ endloop
+endfacet
+facet normal 1.0 0.0 0.0
+ outer loop
+  vertex 12.5 0.625 0.0
+  vertex 12.5 -0.3125 0.5
+  vertex 12.5 -0.625 0.0
+ endloop
+endfacet
+facet normal -1.0 -0.0 0.0
+ outer loop
+  vertex -12.5 2.5 0
+  vertex -12.5 -1.25 -2.0
+  vertex -12.5 -2.5 0
+ endloop
+endfacet
+facet normal 1.0 0.0 0.0
+ outer loop
+  vertex 12.5 0.625 0.0
+  vertex 12.5 -0.625 0.0
+  vertex 12.5 -0.3125 -0.5
+ endloop
+endfacet
+facet normal -1.0 0.0 0.0
+ outer loop
+  vertex -12.5 2.5 0
+  vertex -12.5 1.25 -2.0
+  vertex -12.5 -1.25 -2.0
+ endloop
+endfacet
+facet normal 1.0 0.0 0.0
+ outer loop
+  vertex 12.5 0.625 0.0
+  vertex 12.5 -0.3125 -0.5
+  vertex 12.5 0.3125 -0.5
+ endloop
+endfacet
+facet normal 0.0 0.847998304005088 0.52999894000318
+ outer loop
+  vertex -12.5 2.5 0
+  vertex -12.5 1.25 2.0
+  vertex 4.5 1.25 2.0
+ endloop
+endfacet
+facet normal -0.0 0.847998304005088 0.52999894000318
+ outer loop
+  vertex -12.5 2.5 0
+  vertex 4.5 1.25 2.0
+  vertex 4.5 2.5 0
+ endloop
+endfacet
+facet normal 0.0 0.0 1.0
+ outer loop
+  vertex -12.5 1.25 2.0
+  vertex -12.5 -1.25 2.0
+  vertex 4.5 -1.25 2.0
+ endloop
+endfacet
+facet normal -0.0 0.0 1.0
+ outer loop
+  vertex -12.5 1.25 2.0
+  vertex 4.5 -1.25 2.0
+  vertex 4.5 1.25 2.0
+ endloop
+endfacet
+facet normal 0.0 -0.847998304005088 0.52999894000318
+ outer loop
+  vertex -12.5 -1.25 2.0
+  vertex -12.5 -2.5 0
+  vertex 4.5 -2.5 0
+ endloop
+endfacet
+facet normal 0.0 -0.847998304005088 0.52999894000318
+ outer loop
+  vertex -12.5 -1.25 2.0
+  vertex 4.5 -2.5 0
+  vertex 4.5 -1.25 2.0
+ endloop
+endfacet
+facet normal 0.0 -0.847998304005088 -0.52999894000318
+ outer loop
+  vertex -12.5 -2.5 0
+  vertex -12.5 -1.25 -2.0
+  vertex 4.5 -1.25 -2.0
+ endloop
+endfacet
+facet normal 0.0 -0.847998304005088 -0.52999894000318
+ outer loop
+  vertex -12.5 -2.5 0
+  vertex 4.5 -1.25 -2.0
+  vertex 4.5 -2.5 0
+ endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+ outer loop
+  vertex -12.5 -1.25 -2.0
+  vertex -12.5 1.25 -2.0
+  vertex 4.5 1.25 -2.0
+ endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+ outer loop
+  vertex -12.5 -1.25 -2.0
+  vertex 4.5 1.25 -2.0
+  vertex 4.5 -1.25 -2.0
+ endloop
+endfacet
+facet normal 0.0 0.847998304005088 -0.52999894000318
+ outer loop
+  vertex -12.5 1.25 -2.0
+  vertex -12.5 2.5 0
+  vertex 4.5 2.5 0
+ endloop
+endfacet
+facet normal 0.0 0.847998304005088 -0.52999894000318
+ outer loop
+  vertex -12.5 1.25 -2.0
+  vertex 4.5 2.5 0
+  vertex 4.5 1.25 -2.0
+ endloop
+endfacet
+facet normal 0.1949367532836747 0.8317301473436788 0.5198313420897993
+ outer loop
+  vertex 4.5 2.5 0
+  vertex 4.5 1.25 2.0
+  vertex 12.5 0.3125 0.5
+ endloop
+endfacet
+facet normal 0.1949367532836747 0.8317301473436788 0.5198313420897993
+ outer loop
+  vertex 4.5 2.5 0
+  vertex 12.5 0.3125 0.5
+  vertex 12.5 0.625 0.0
+ endloop
+endfacet
+facet normal 0.18428853505018536 0.0 0.9828721869343219
+ outer loop
+  vertex 4.5 1.25 2.0
+  vertex 4.5 -1.25 2.0
+  vertex 12.5 -0.3125 0.5
+ endloop
+endfacet
+facet normal 0.18428853505018536 0.0 0.9828721869343219
+ outer loop
+  vertex 4.5 1.25 2.0
+  vertex 12.5 -0.3125 0.5
+  vertex 12.5 0.3125 0.5
+ endloop
+endfacet
+facet normal 0.1949367532836747 -0.8317301473436788 0.5198313420897993
+ outer loop
+  vertex 4.5 -1.25 2.0
+  vertex 4.5 -2.5 0
+  vertex 12.5 -0.625 0.0
+ endloop
+endfacet
+facet normal 0.1949367532836747 -0.8317301473436788 0.5198313420897993
+ outer loop
+  vertex 4.5 -1.25 2.0
+  vertex 12.5 -0.625 0.0
+  vertex 12.5 -0.3125 0.5
+ endloop
+endfacet
+facet normal 0.1949367532836747 -0.8317301473436788 -0.5198313420897993
+ outer loop
+  vertex 4.5 -2.5 0
+  vertex 4.5 -1.25 -2.0
+  vertex 12.5 -0.3125 -0.5
+ endloop
+endfacet
+facet normal 0.1949367532836747 -0.8317301473436788 -0.5198313420897993
+ outer loop
+  vertex 4.5 -2.5 0
+  vertex 12.5 -0.3125 -0.5
+  vertex 12.5 -0.625 0.0
+ endloop
+endfacet
+facet normal 0.18428853505018536 0.0 -0.9828721869343219
+ outer loop
+  vertex 4.5 -1.25 -2.0
+  vertex 4.5 1.25 -2.0
+  vertex 12.5 0.3125 -0.5
+ endloop
+endfacet
+facet normal 0.18428853505018536 0.0 -0.9828721869343219
+ outer loop
+  vertex 4.5 -1.25 -2.0
+  vertex 12.5 0.3125 -0.5
+  vertex 12.5 -0.3125 -0.5
+ endloop
+endfacet
+facet normal 0.1949367532836747 0.8317301473436788 -0.5198313420897993
+ outer loop
+  vertex 4.5 1.25 -2.0
+  vertex 4.5 2.5 0
+  vertex 12.5 0.625 0.0
+ endloop
+endfacet
+facet normal 0.1949367532836747 0.8317301473436788 -0.5198313420897993
+ outer loop
+  vertex 4.5 1.25 -2.0
+  vertex 12.5 0.625 0.0
+  vertex 12.5 0.3125 -0.5
+ endloop
+endfacet
+endsolid bit_outer_proxy_mm
